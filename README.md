@@ -3,5 +3,7 @@
 # To run api
 - python main.py
 
-# to Test api
+# To Test api
 - pytest apitest.py
+
+Some test cases added other are same so not added more, can be added in future
