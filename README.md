@@ -2,5 +2,6 @@
 
 # To run api
 - python main.py
-$ to Test api
+
+# to Test api
 - pytest apitest.py
